@@ -1,0 +1,21 @@
+{
+  "name": "robson-wp-theme",
+  "description": "",
+  "main": "",
+  "authors": [
+    "maciejmyslinski"
+  ],
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/maciejmyslinski/robson-wp-theme",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
